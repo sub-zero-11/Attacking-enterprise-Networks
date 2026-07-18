@@ -1,4 +1,4 @@
-# Inlanefreight Penetration Test — Engagement Vault
+# Inlanefreight Penetration Test - Engagement Vault
 
 An Obsidian vault documenting a full-lifecycle penetration test against the fictional organization **Inlanefreight**, performed by **Acme Security, Ltd.** This is based on the *Attacking Enterprise Networks* capstone module (HTB Academy, Penetration Tester Job Role Path), restructured and rewritten here as a professional-style engagement record: External Attack → Internal Foothold → Active Directory Compromise → Post-Exploitation.
 
